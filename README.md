@@ -4,10 +4,10 @@ This is a campus app  designed for HUT(Hunan University of Technology).
 
 renderings/效果图
 
-![](https://github.com/taroyuyu/HUTLife/blob/master/rendering/rendering01.jpg)
+![rendering01](https://github.com/taroyuyu/HUTLife/blob/master/rendering/rendering01.jpg)
 
-![](https://github.com/taroyuyu/HUTLife/blob/master/rendering/rendering02.jpg)
+![rendering02](https://github.com/taroyuyu/HUTLife/blob/master/rendering/rendering02.jpg)
 
-![](https://github.com/taroyuyu/HUTLife/blob/master/rendering/rendering03.jpg)
+![rendering03](https://github.com/taroyuyu/HUTLife/blob/master/rendering/rendering03.jpg)
 
-![](https://github.com/taroyuyu/HUTLife/blob/master/rendering/rendering04.jpg)
+![rendering04](https://github.com/taroyuyu/HUTLife/blob/master/rendering/rendering04.jpg)
