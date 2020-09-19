@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>content</key>
+		<string>为了提供额外的表情，我写这个表情容易吗💢</string>
+		<key>postion</key>
+		<string>株洲－湖南工业大学</string>
+		<key>imagesURL</key>
+		<array>
+			<string>IMG_1562.JPG</string>
+		</array>
+		<key>headePicture</key>
+		<string>IMG_1573.JPG</string>
+		<key>nickName</key>
+		<string>kakawater</string>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>讲真下午在校门口碰到这只狗我还讲了句挺可爱的 结果晚上下晚自习的时候它就一路跟我跟到寝室  室友给它泡了牛奶洗了澡 在我给它吹干后 它满屋跑了一圈就跑出去了  留下了一屋的狗毛和骚味િ😳ી</string>
+		<key>postion</key>
+		<string>张家界－吉首大学</string>
+		<key>imagesURL</key>
+		<array>
+			<string>IMG_1564.JPG</string>
+			<string>IMG_1565.JPG</string>
+			<string>IMG_1566.JPG</string>
+			<string>IMG_1567.JPG</string>
+			<string>IMG_1568.JPG</string>
+			<string>IMG_1569.JPG</string>
+			<string>IMG_1570.JPG</string>
+			<string>IMG_1571.JPG</string>
+			<string>IMG_1572.JPG</string>
+		</array>
+		<key>headePicture</key>
+		<string>IMG_1574.JPG</string>
+		<key>nickName</key>
+		<string>王斑</string>
+	</dict>
+</array>
+</plist>
